@@ -18,3 +18,4 @@ def generate_log(data):
     print(f"Log file created: {filename}")
 
     return filename
+# Task management log generator
